@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/3751f5d22cf235ffc4d9feda20ae0f24926520e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_5a471b1f1e62bb94285483d79c1ba2187bee12ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/f9c0cedea7472fc7139d3fe8ec7ee3c20f76a96b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_c643ac324f97b0d185e688b72e4b3c7a78d15ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b3b7cb5f63b93be6a2c1fc236f7422767bab4169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1b96d1f1da063ad4e78df7f8b85b577f1327ee62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/ac9c4c6782e3c554b50fc86ae855d6c3ccf3149c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_8588bf1e657482a2d3cdff2fbaca311d1c24226b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/e03e16535f0b26f43f192a3cf20a6a2ab79fbcf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_c61c921f33b79e020dbcfdb141d8dbf5c516127b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/58a05bb9066b723334526a1910c73768bce04fb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_4847c3cd1e45dd7901321e7f04ee0bf46cdc58e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/e67b10c5de8857d5e36ebf4afa6ce74c72ddd651/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_74d73756c00a8602cfe37f4ce297638ba03dca5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/ac13c0caeaa5a8514d840b5a5d9c3d16f7e3af6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_9971bba3ddaec47b20d356a66e72110cf4b5899e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/85eaeffec09ba4a1e168587c13a61bd164dbc099/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_1c8153c8bc0e7961b39d667e7cc6168cf9689db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/bc76b304dc757f9173781686cf37d00bc21eb82b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_05d2184211fc4c0defb513f6189d8c43902c16de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lailson/.android/build-cache/06ad12ddd9bf621d97f6623eade1e3159b292380/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/lailson/AndroidStudioProjects/Calculadora/app/build/intermediates/pre-dexed/debug/classes_593b367ce813a07a2384135c78482a16997a8c08.jar" />
+    </item>
+
+</items>

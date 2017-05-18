@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="lbl_valorA">ValorA</string>
+    <string name="lbl_valorB">ValorB</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="lbl_operacao">Operação</string>
+
+    <string-array name="operacoes_names">
+            <item>Soma</item>
+            <item>Subtracao</item>
+            <item>Multiplicacao</item>
+            <item>Divisao</item>
+    </string-array>
+
+</resources>
