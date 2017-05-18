@@ -1,1 +1,1 @@
-Aplicativo de uma calculadora desenvolvida para Android.
+Aplicativo/Calculadora desenvolvida para Android.
